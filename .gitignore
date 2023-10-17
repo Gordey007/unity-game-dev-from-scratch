@@ -1,9 +1,12 @@
 # Projects from the course
-/Practice
-/Theory
+/Practice/*
+/Theory/*
 
-!*.unitypackage
-!README.md
+!/Practice/*/*.unitypackage
+!/Practice/*/README.md
+
+!/Theory/*/*.unitypackage
+!/Theory/*/README.md
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
