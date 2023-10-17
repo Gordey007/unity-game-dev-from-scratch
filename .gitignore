@@ -1,6 +1,6 @@
 # Projects from the course
-/Practice/*
-/Theory/*
+/Practice/*/*
+/Theory/*/*
 
 !/Practice/*/*.unitypackage
 !/Practice/*/README.md
