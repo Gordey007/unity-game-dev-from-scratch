@@ -2,6 +2,8 @@
 /Practice/*/*
 /Theory/*/*
 
+!/Practice/*/Screenshots
+
 !/Practice/*/*.unitypackage
 !/Practice/*/README.md
 
