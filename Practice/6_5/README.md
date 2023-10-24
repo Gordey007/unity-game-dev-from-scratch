@@ -4,6 +4,7 @@ Create a game about a burglar.
 <br>
 <br>
 Initial user interface:
+<br>
 ![initial_ui.png](Screenshots%2Finitial_ui.png)
 <br>
 <br>
