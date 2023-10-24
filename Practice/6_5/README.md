@@ -4,7 +4,7 @@ Create a game about a burglar.
 <br>
 <br>
 Initial user interface:
-![initial_ui.png](Screenshots%2Fstart_ui.png)
+![initial_ui.png](Screenshots%2Finitial_ui.png)
 <br>
 <br>
 All pins must be set to "5" by pressing the corresponding buttons.
