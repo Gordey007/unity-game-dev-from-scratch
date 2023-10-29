@@ -22,6 +22,41 @@
     12. Make a nice looking interface: with plugins, your own fonts, and so on.
 
 Reference:
-<br>
-<br>
+<br><br>
 ![Reference.png](Screenshots%2FReference.png)
+
+## Purpose of the game:
+Will last N cycles of enemy attacks.
+
+## Game mechanics:
+* For the first N cycles, enemies do not attack.
+* Each collector collects N number of resources.
+* You can use resources to buy collectors/warriors/bonuses.
+* Bonuses can be beneficial or they can be harmful.
+* When attacked by enemies, wars always die in a ratio of 1 to 1 (enemy to war).
+* Collecting resources/consuming resources/hiring personnel/attacking enemies occurs after N seconds.
+
+## Screenshots:
+Starting the game:
+<br><br>
+![Game.png](Screenshots%2FGame.png)
+<br><br>
+Buying a bonus:
+<br><br>
+![Bonus.png](Screenshots%2FBonus.png)
+<br><br>
+Pause:
+<br><br>
+![Pause.png](Screenshots%2FPause.png)
+<br><br>
+Mute:
+<br><br>
+![Music off.png](Screenshots%2FMusic%20off.png)
+<br><br>
+Win:
+<br><br>
+![Win.png](Screenshots%2FWin.png)
+<br><br>
+Game over:
+<br><br>
+![Game over.png](Screenshots%2FGame%20over.png)
