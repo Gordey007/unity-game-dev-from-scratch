@@ -37,26 +37,32 @@ Will last N cycles of enemy attacks.
 * Collecting resources/consuming resources/hiring personnel/attacking enemies occurs after N seconds.
 
 ## Screenshots:
-Starting the game:
+**Starting the game:**
 <br><br>
 ![Game.png](Screenshots%2FGame.png)
+****
 <br><br>
-Buying a bonus:
+**Buying a bonus:**
 <br><br>
 ![Bonus.png](Screenshots%2FBonus.png)
+****
 <br><br>
-Pause:
+**Pause:**
 <br><br>
 ![Pause.png](Screenshots%2FPause.png)
+****
 <br><br>
-Mute:
+**Mute:**
 <br><br>
 ![Music off.png](Screenshots%2FMusic%20off.png)
+****
 <br><br>
-Win:
+**Win:**
 <br><br>
 ![Win.png](Screenshots%2FWin.png)
+****
 <br><br>
-Game over:
+**Game over:**
 <br><br>
 ![Game over.png](Screenshots%2FGame%20over.png)
+****
