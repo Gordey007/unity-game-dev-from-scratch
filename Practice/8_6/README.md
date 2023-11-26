@@ -40,3 +40,15 @@ Mechanics:
 * If running #N reaches the finish line, then he starts running in the opposite direction.
 
 Screenshots:
+**Start:**
+<br><br>
+![Start.png](Screenshots%2FTask_2%2FStart.png)
+****
+**To the finish line:**
+<br><br>
+![To the finish line.png](Screenshots%2FTask_2%2FTo%20the%20finish%20line.png)
+****
+**To the start:**
+<br><br>
+![To the start.png](Screenshots%2FTask_2%2FTo%20the%20start.png)
+****
