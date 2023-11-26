@@ -3,8 +3,11 @@
 1. Create a system for moving an object from point to point.
 2. Create a movement system based on the relay race principle.
 3. Visualize runners (optional).
+
 ## Fulfillment
+
 ### Task #1
+Scene: Task1Point2PointMoveSys<br>
 The assignment is in a white box format.
 <br><br>
 Mechanics:
@@ -25,3 +28,15 @@ Screenshots:
 <br><br>
 ![Jump_1.png](Screenshots%2FTask_1%2FJump_1.png)
 ****
+
+### Task #2
+Scene: Task2MoveSysRelayRacePrinciple<br>
+The assignment is in a white box format.
+<br><br>
+Mechanics:
+* N runners are created.
+* Run #i runs to runner #i + 1 <br>
+  where i > 0 and i <= N.
+* If running #N reaches the finish line, then he starts running in the opposite direction.
+
+Screenshots:
