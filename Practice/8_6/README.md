@@ -7,7 +7,7 @@
 ## Fulfillment
 
 ### Task #1
-Scene: Task1Point2PointMoveSys<br>
+Scene: Task1Point2PointMoveSys <br>
 The assignment is in a white box format.
 <br><br>
 Mechanics:
@@ -16,6 +16,7 @@ Mechanics:
 * When the runner approaches a barrier, the runner performs a jump.
 
 Screenshots:
+<br><br>
 **Scene:**
 <br><br>
 ![Scene.png](Screenshots%2FTask_1%2FScene.png)
@@ -30,7 +31,7 @@ Screenshots:
 ****
 
 ### Task #2
-Scene: Task2MoveSysRelayRacePrinciple<br>
+Scene: Task2MoveSysRelayRacePrinciple <br>
 The assignment is in a white box format.
 <br><br>
 Mechanics:
@@ -40,6 +41,7 @@ Mechanics:
 * If running #N reaches the finish line, then he starts running in the opposite direction.
 
 Screenshots:
+<br><br>
 **Start:**
 <br><br>
 ![Start.png](Screenshots%2FTask_2%2FStart.png)
@@ -52,3 +54,45 @@ Screenshots:
 <br><br>
 ![To the start.png](Screenshots%2FTask_2%2FTo%20the%20start.png)
 ****
+
+### Task #3
+Scene: Task3VisualizationOfRunners <br>
+The scene is assembled from an asset [Cyber Punk Girl & Vehicle](https://assetstore.unity.com/packages/3d/characters/humanoids/cyber-punk-girl-vehicle-102627)
+The mechanics are the same as in task 2.
+Additional mechanics:
+* Turn towards the finish/start.
+* Passing the baton.
+
+Screenshots:
+<br><br>
+**Generation of runners:**
+<br><br>
+![Generation of runners.png](Screenshots%2FTask_3%2FGeneration%20of%20runners.png)
+****
+**Start:**
+<br><br>
+![Start.png](Screenshots%2FTask_3%2FStart.png)
+****
+**Passing the baton 1:**
+<br><br>
+![Passing the baton 1.png](Screenshots%2FTask_3%2FPassing%20the%20baton%201.png)
+****
+**Passing the baton 2:**
+<br><br>
+![Passing the baton 2.png](Screenshots%2FTask_3%2FPassing%20the%20baton%202.png)
+****
+**Passing the baton 1.2:**
+<br><br>
+![Passing the baton 1.2.png](Screenshots%2FTask_3%2FPassing%20the%20baton%201.2.png)
+****
+**Passing the baton 2.2:**
+<br><br>
+![Passing the baton 2.2.png](Screenshots%2FTask_3%2FPassing%20the%20baton%202.2.png)
+****
+**To the finish line:**
+<br><br>
+![To the finish line.png](Screenshots%2FTask_3%2FTo%20the%20finish%20line.png)
+****
+**To the start.png:**
+<br><br>
+![To the start.png](Screenshots%2FTask_3%2FTo%20the%20start.png)
